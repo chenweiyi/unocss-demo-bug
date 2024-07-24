@@ -1,0 +1,22 @@
+{
+  "name": "unocss-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "unocss": "unocss -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@unocss/cli": "0.61.2",
+    "@unocss/preset-attributify": "0.61.2",
+    "@unocss/transformer-attributify-jsx": "0.61.2",
+    "unocss": "0.61.2"
+  },
+  "dependencies": {
+    "react": "18.2"
+  }
+}
